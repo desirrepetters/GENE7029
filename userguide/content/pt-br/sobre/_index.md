@@ -135,7 +135,7 @@ Para a turma do primeiro semestre de 2022. as aulas ocorrerão entre os dias 05 
 
 <p><p>
 
-<b>Desirrê Petters-Vandresen</b> é aluna de pós-doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<b>Desirrê Petters-Vandresen</b> é pós-doutoranda do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> da UFPR.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
