@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+  charset Aula_05_EF_Alinhamento_Corrigido_Aula_05_TUB_Alinhamento_Corrigido = 1-687  688-1240;
+  charpartition mymodels =
+    GTR+F+I+G4: Aula_05_EF_Alinhamento_Corrigido_Aula_05_TUB_Alinhamento_Corrigido;
+end;

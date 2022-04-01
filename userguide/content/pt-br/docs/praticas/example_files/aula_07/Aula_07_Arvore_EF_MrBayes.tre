@@ -1,0 +1,181 @@
+#NEXUS
+[ID: 5097835621]
+begin taxa;
+	dimensions ntax=81;
+	taxlabels
+		Consenso
+		Fusarium_acutatum_NRRL13309
+		Fusarium_agapanthi_NRRL54463
+		Fusarium_ananatum_CBS118516
+		Fusarium_andiyazi_NRRL53928
+		Fusarium_anthophilum_NRRL13602
+		Fusarium_awaxy_ATCC_38016
+		Fusarium_awaxy_LGMF1930
+		Fusarium_bactridioides_NRRL20476
+		Fusarium_begoniae_NRRL25300
+		Fusarium_brevicatenulatum_NRRL25446
+		Fusarium_bulbicola_NRRL13618
+		Fusarium_circinatum_NRRL25331
+		Fusarium_coicis_NRRL66233
+		Fusarium_concentricum_NRRL25181
+		Fusarium_denticulatum_NRRL25302
+		Fusarium_dlaminii_NRRL13164
+		Fusarium_ficicrescens_CBS125178
+		Fusarium_fracticaudum_CBS137233
+		Fusarium_fractiflexum_NRRL28852
+		Fusarium_fredikrugeri_CBS144209
+		Fusarium_fujikuroi_NRRL13998
+		Fusarium_globosum_NRRL26131
+		Fusarium_guttiforme_MRC_7539
+		Fusarium_konzum_CBS119849
+		Fusarium_lactis_NRRL25200
+		Fusarium_lumajangense_InaCC_F872
+		Fusarium_mangiferae_NRRL25226
+		Fusarium_marasasianum_CBS137238
+		Fusarium_mexicanum_NRRL53147
+		Fusarium_mundagurra_NRRL66235
+		Fusarium_musae_NRRL25059
+		Fusarium_napiforme_NRRL13604
+		Fusarium_nygamai_NRRL13488
+		Fusarium_oxysporum_NRRL22902
+		Fusarium_parvisorum_CBS137236
+		Fusarium_phyllophilum_NRRL13617
+		Fusarium_pininemorale_CBS137240
+		Fusarium_proliferatum_NRRL22944
+		Fusarium_pseudoanthophilum_NRRL25206
+		Fusarium_pseudocircinatum_NRRL22946
+		Fusarium_pseudonygamai_NRRL13592
+		Fusarium_ramigenum_NRRL25208
+		Fusarium_sacchari_NRRL13999
+		Fusarium_secorum_NRRL62593
+		Fusarium_siculi_CBS142422
+		Fusarium_sororula_CBS137242
+		Fusarium_sp_NRRL25195
+		Fusarium_sp_NRRL25204
+		Fusarium_sp_NRRL25221
+		Fusarium_sp_NRRL25303
+		Fusarium_sp_NRRL25309
+		Fusarium_sp_NRRL25346
+		Fusarium_sp_NRRL25615
+		Fusarium_sp_NRRL25807
+		Fusarium_sp_NRRL26064
+		Fusarium_sp_NRRL26427
+		Fusarium_sp_NRRL26756
+		Fusarium_sp_NRRL26757
+		Fusarium_sp_NRRL29124
+		Fusarium_sterilihyphosum_NRRL25623
+		Fusarium_subglutinans_Fs_hap3
+		Fusarium_subglutinans_M03S_C1_1
+		Fusarium_subglutinans_MUCL52468
+		Fusarium_subglutinans_NRRL22016
+		Fusarium_subglutinans_NRRL53904
+		Fusarium_subglutinans_NRRL54158
+		Fusarium_subglutinans_OS15
+		Fusarium_subglutinans_RV23_2
+		Fusarium_succisae_NRRL13613
+		Fusarium_sudanense_NRRL26793
+		Fusarium_temperatum_MUCL52450
+		Fusarium_temperatum_NRRL25622
+		Fusarium_terricola_NRRL36490
+		Fusarium_thapsinum_NRRL22045
+		Fusarium_tjaetaba_NRRL66243
+		Fusarium_tupiense_NRRL53984
+		Fusarium_udum_NRRL22949
+		Fusarium_verticillioides_NRRL22172
+		Fusarium_werrikimbe_CBS125535
+		Fusarium_xylarioides_NRRL25486
+		;
+end;
+begin trees;
+	translate
+		1	Consenso,
+		2	Fusarium_acutatum_NRRL13309,
+		3	Fusarium_agapanthi_NRRL54463,
+		4	Fusarium_ananatum_CBS118516,
+		5	Fusarium_andiyazi_NRRL53928,
+		6	Fusarium_anthophilum_NRRL13602,
+		7	Fusarium_awaxy_ATCC_38016,
+		8	Fusarium_awaxy_LGMF1930,
+		9	Fusarium_bactridioides_NRRL20476,
+		10	Fusarium_begoniae_NRRL25300,
+		11	Fusarium_brevicatenulatum_NRRL25446,
+		12	Fusarium_bulbicola_NRRL13618,
+		13	Fusarium_circinatum_NRRL25331,
+		14	Fusarium_coicis_NRRL66233,
+		15	Fusarium_concentricum_NRRL25181,
+		16	Fusarium_denticulatum_NRRL25302,
+		17	Fusarium_dlaminii_NRRL13164,
+		18	Fusarium_ficicrescens_CBS125178,
+		19	Fusarium_fracticaudum_CBS137233,
+		20	Fusarium_fractiflexum_NRRL28852,
+		21	Fusarium_fredikrugeri_CBS144209,
+		22	Fusarium_fujikuroi_NRRL13998,
+		23	Fusarium_globosum_NRRL26131,
+		24	Fusarium_guttiforme_MRC_7539,
+		25	Fusarium_konzum_CBS119849,
+		26	Fusarium_lactis_NRRL25200,
+		27	Fusarium_lumajangense_InaCC_F872,
+		28	Fusarium_mangiferae_NRRL25226,
+		29	Fusarium_marasasianum_CBS137238,
+		30	Fusarium_mexicanum_NRRL53147,
+		31	Fusarium_mundagurra_NRRL66235,
+		32	Fusarium_musae_NRRL25059,
+		33	Fusarium_napiforme_NRRL13604,
+		34	Fusarium_nygamai_NRRL13488,
+		35	Fusarium_oxysporum_NRRL22902,
+		36	Fusarium_parvisorum_CBS137236,
+		37	Fusarium_phyllophilum_NRRL13617,
+		38	Fusarium_pininemorale_CBS137240,
+		39	Fusarium_proliferatum_NRRL22944,
+		40	Fusarium_pseudoanthophilum_NRRL25206,
+		41	Fusarium_pseudocircinatum_NRRL22946,
+		42	Fusarium_pseudonygamai_NRRL13592,
+		43	Fusarium_ramigenum_NRRL25208,
+		44	Fusarium_sacchari_NRRL13999,
+		45	Fusarium_secorum_NRRL62593,
+		46	Fusarium_siculi_CBS142422,
+		47	Fusarium_sororula_CBS137242,
+		48	Fusarium_sp_NRRL25195,
+		49	Fusarium_sp_NRRL25204,
+		50	Fusarium_sp_NRRL25221,
+		51	Fusarium_sp_NRRL25303,
+		52	Fusarium_sp_NRRL25309,
+		53	Fusarium_sp_NRRL25346,
+		54	Fusarium_sp_NRRL25615,
+		55	Fusarium_sp_NRRL25807,
+		56	Fusarium_sp_NRRL26064,
+		57	Fusarium_sp_NRRL26427,
+		58	Fusarium_sp_NRRL26756,
+		59	Fusarium_sp_NRRL26757,
+		60	Fusarium_sp_NRRL29124,
+		61	Fusarium_sterilihyphosum_NRRL25623,
+		62	Fusarium_subglutinans_Fs_hap3,
+		63	Fusarium_subglutinans_M03S_C1_1,
+		64	Fusarium_subglutinans_MUCL52468,
+		65	Fusarium_subglutinans_NRRL22016,
+		66	Fusarium_subglutinans_NRRL53904,
+		67	Fusarium_subglutinans_NRRL54158,
+		68	Fusarium_subglutinans_OS15,
+		69	Fusarium_subglutinans_RV23_2,
+		70	Fusarium_succisae_NRRL13613,
+		71	Fusarium_sudanense_NRRL26793,
+		72	Fusarium_temperatum_MUCL52450,
+		73	Fusarium_temperatum_NRRL25622,
+		74	Fusarium_terricola_NRRL36490,
+		75	Fusarium_thapsinum_NRRL22045,
+		76	Fusarium_tjaetaba_NRRL66243,
+		77	Fusarium_tupiense_NRRL53984,
+		78	Fusarium_udum_NRRL22949,
+		79	Fusarium_verticillioides_NRRL22172,
+		80	Fusarium_werrikimbe_CBS125535,
+		81	Fusarium_xylarioides_NRRL25486
+		;
+   [Note: This tree contains information on the topology, 
+          branch lengths (if present), and the probability
+          of the partition indicated by the branch.]
+   tree con_50_majrule = (35:3.237438e-002,16:1.752942e-002,(17:4.902141e-003,21:7.560944e-003)1.000:1.528250e-002,((((1:2.818151e-003,7:9.199883e-004,8:9.073301e-004,62:9.201629e-004,63:8.856291e-004,68:9.405044e-004,69:9.926858e-004)1.000:7.007743e-003,(4:7.036544e-003,(10:1.994644e-003,24:1.186090e-003,47:9.600196e-004,49:2.948945e-003)0.999:3.578109e-003,(13:5.774171e-003,60:5.184442e-003)0.903:3.006990e-003,(72:9.359803e-004,73:9.132120e-004)1.000:1.167549e-002)0.563:2.203673e-003,((6:3.590268e-003,9:9.061417e-003,70:1.148784e-002)0.925:2.166847e-003,(12:9.661614e-004,80:4.932667e-003)0.967:2.311677e-003)0.995:2.238277e-003,(((((19:2.335355e-003,36:2.096690e-003)0.972:2.158363e-003,25:1.456915e-002,48:2.278090e-003,55:7.372810e-003,61:8.879596e-004,77:6.093668e-003)1.000:6.337336e-003,29:3.564134e-003)0.899:2.159515e-003,38:6.197849e-003)0.995:3.926358e-003,(64:9.029935e-004,65:8.957109e-004,66:1.143087e-003,67:1.139006e-003)1.000:1.163473e-002)0.696:2.177197e-003)0.883:3.292899e-003,((30:2.286679e-003,(58:8.886615e-004,59:2.223406e-003)0.993:2.247768e-003)0.865:2.173139e-003,53:3.787276e-003)0.959:2.800874e-003)0.999:6.687168e-003,3:1.341240e-002)1.000:1.864282e-002,((2:6.157586e-003,45:1.115995e-002)0.997:5.729210e-003,((37:7.062419e-003,(78:4.032231e-003,81:1.024314e-002)0.517:2.114770e-003)0.733:2.501234e-003,56:6.584128e-003)1.000:1.299601e-002)0.989:6.051872e-003,((((15:9.190702e-004,51:2.209483e-003,52:2.262181e-003)1.000:9.116445e-003,((27:2.419972e-003,28:2.205438e-003)0.930:2.299653e-003,57:6.210652e-003)1.000:6.294826e-003)0.997:6.404884e-003,(20:8.123901e-003,(22:8.244148e-003,((23:4.722950e-003,46:1.111906e-002)0.790:3.308302e-003,39:1.977414e-002)0.932:4.857641e-003)1.000:1.402764e-002)0.911:4.536315e-003)0.864:6.660407e-003,44:3.980195e-002)0.960:8.195646e-003,((((((5:1.102160e-002,(11:6.224572e-003,40:4.811788e-003)1.000:1.567542e-002,42:1.698925e-002)0.850:4.634217e-003,76:9.298401e-003)0.997:6.279068e-003,((14:8.223517e-003,54:1.779104e-002)1.000:1.583795e-002,(32:6.615069e-003,79:7.028328e-003)1.000:1.930176e-002)0.997:1.194802e-002,(33:7.349125e-003,43:7.346105e-003)0.997:5.704451e-003)0.802:5.312221e-003,18:1.397664e-002,(71:5.484840e-003,74:5.625844e-003)0.901:2.961270e-003)0.903:3.309658e-003,26:1.370959e-002)1.000:7.823422e-003,((31:3.505561e-003,50:9.893143e-003)1.000:1.786405e-002,(34:5.443090e-003,75:2.307036e-002)0.682:2.334854e-003)0.805:2.404477e-003,41:2.081592e-002)0.657:2.736551e-003);
+
+   [Note: This tree contains information only on the topology
+          and branch lengths (median of the posterior probability density).]
+   tree con_50_majrule = (35:3.237438e-002,16:1.752942e-002,(17:4.902141e-003,21:7.560944e-003):1.528250e-002,((((1:2.818151e-003,7:9.199883e-004,8:9.073301e-004,62:9.201629e-004,63:8.856291e-004,68:9.405044e-004,69:9.926858e-004):7.007743e-003,(4:7.036544e-003,(10:1.994644e-003,24:1.186090e-003,47:9.600196e-004,49:2.948945e-003):3.578109e-003,(13:5.774171e-003,60:5.184442e-003):3.006990e-003,(72:9.359803e-004,73:9.132120e-004):1.167549e-002):2.203673e-003,((6:3.590268e-003,9:9.061417e-003,70:1.148784e-002):2.166847e-003,(12:9.661614e-004,80:4.932667e-003):2.311677e-003):2.238277e-003,(((((19:2.335355e-003,36:2.096690e-003):2.158363e-003,25:1.456915e-002,48:2.278090e-003,55:7.372810e-003,61:8.879596e-004,77:6.093668e-003):6.337336e-003,29:3.564134e-003):2.159515e-003,38:6.197849e-003):3.926358e-003,(64:9.029935e-004,65:8.957109e-004,66:1.143087e-003,67:1.139006e-003):1.163473e-002):2.177197e-003):3.292899e-003,((30:2.286679e-003,(58:8.886615e-004,59:2.223406e-003):2.247768e-003):2.173139e-003,53:3.787276e-003):2.800874e-003):6.687168e-003,3:1.341240e-002):1.864282e-002,((2:6.157586e-003,45:1.115995e-002):5.729210e-003,((37:7.062419e-003,(78:4.032231e-003,81:1.024314e-002):2.114770e-003):2.501234e-003,56:6.584128e-003):1.299601e-002):6.051872e-003,((((15:9.190702e-004,51:2.209483e-003,52:2.262181e-003):9.116445e-003,((27:2.419972e-003,28:2.205438e-003):2.299653e-003,57:6.210652e-003):6.294826e-003):6.404884e-003,(20:8.123901e-003,(22:8.244148e-003,((23:4.722950e-003,46:1.111906e-002):3.308302e-003,39:1.977414e-002):4.857641e-003):1.402764e-002):4.536315e-003):6.660407e-003,44:3.980195e-002):8.195646e-003,((((((5:1.102160e-002,(11:6.224572e-003,40:4.811788e-003):1.567542e-002,42:1.698925e-002):4.634217e-003,76:9.298401e-003):6.279068e-003,((14:8.223517e-003,54:1.779104e-002):1.583795e-002,(32:6.615069e-003,79:7.028328e-003):1.930176e-002):1.194802e-002,(33:7.349125e-003,43:7.346105e-003):5.704451e-003):5.312221e-003,18:1.397664e-002,(71:5.484840e-003,74:5.625844e-003):2.961270e-003):3.309658e-003,26:1.370959e-002):7.823422e-003,((31:3.505561e-003,50:9.893143e-003):1.786405e-002,(34:5.443090e-003,75:2.307036e-002):2.334854e-003):2.404477e-003,41:2.081592e-002):2.736551e-003);
+end;

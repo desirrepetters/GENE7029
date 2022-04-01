@@ -1,0 +1,39 @@
+>Feature Seq1				
+<1	>678	gene		
+			gene	tef1
+			note	translation elongation factor 1-alpha
+<1	43	CDS		
+142	204			
+436	574			
+630	>678			
+			product	tef1
+			note	translation elongation factor 1-alpha
+			codon_start	2
+			transl_table	1
+<1	43	mRNA		
+142	204			
+436	574			
+630	>678			
+			product	tef1
+			note	translation elongation factor 1-alpha
+			
+
+>Feature Seq2				
+<1	>652	gene		
+			gene	tef1
+			note	translation elongation factor 1-alpha
+<1	63	CDS		
+162	224			
+456	594			
+650	>652			
+			product	tef1
+			note	translation elongation factor 1-alpha
+			codon_start	1
+			transl_table	1
+<1	63	mRNA		
+162	224			
+456	594			
+650	>652			
+			product	tef1
+			note	translation elongation factor 1-alpha
+				

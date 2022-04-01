@@ -1,0 +1,66 @@
+{{ $links := .Site.Params.links }}
+
+<section class="row td-box td-box--4 td-box--gradient td-box--height-auto linkbox">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h2>Valores</h2>
+<p>		
+<p>Há valores diferenciados de inscrição de acordo com seu vínculo institucional e/ou modalidade de curso.
+<ul>
+<p><li><b>Estudante de Graduação</b>: 60 reais;</li>
+<p><li><b>Estudante de Pós-Graduação (Mestrado)</b>: 100 reais;</li>
+<p><li><b>Estudante de Pós-Graduação (Doutorado)</b>: 150 reais;</li>
+<p><li><b>Professor, pós-doutorando ou pesquisador de instituição pública</b>: 300 reais;</li>
+<p><li><b>Profissional externo</b>: 600 reais;</li>
+<p>
+</ul>
+<p>
+Serão disponibilizadas 30 vagas para a segunda turma do curso. Caso as 30 vagas sejam preenchidas, há uma <a href="https://forms.gle/ddmNQn6eBntGuUYg9">lista de espera</a> para possíveis desistências e avaliar a possibilidade de abertura de novas turmas.
+<p>
+Em caso de desistência, <b><red>o reembolso será de 70% do valor da inscrição</red></b>, em função da existência de taxas administrativas.
+<p>
+<p>
+<h2>Formulário de Inscrição</h2>
+<p>
+<p>Para iniciar sua inscrição, clique <a href="https://forms.gle/KdQ4Fxqc6f29FQ5X9">aqui</a> para preencher o formulário com seus dados. Após o preenchimento do formulário, prossiga e realize a emissão e pagamento da GRU. Somente realize a emissão e pagamento de GRU <b>APÓS</b> preencher o formulário do Google Forms, em função do limite de vagas na turma.
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h2>Pagamento</h2>
+<p>
+<p>O pagamento das inscrições pode ser feito apenas via emissão de GRU.
+<p>Clique <a href="https://consulta.tesouro.fazenda.gov.br/gru_novosite/gru_simples.asp">aqui</a> para emissão da GRU, e preencha com os dados abaixo:
+<ul>
+<p><li><b>Unidade Gestora (UG):</b> 153079 (UNIVERSIDADE FEDERAL DO PARANA);</li>
+<p><li><b>Gestão:</b> 15232 (UNIVERSIDADE FEDERAL DO PARANA);</li>
+<p><li><b>Nome da Unidade:</b> UNIVERSIDADE FEDERAL DO PARANA;</li>
+<p><li><b>Recolhimento/código:</b> 28911-6 (SFIN SERVICOS EDUCACIONAIS);</li>
+<p>
+</ul>
+<p>Clique em avançar para prosseguir à página seguinte, e preencha:
+<p>
+<ul>
+<p><li><b>Número de referência:</b> 1615368806003;</li>
+<p><li><b>Competência:</b> mês/ano do pagamento no formato mm/aaaa;</li>
+<p><li><b>Vencimento:</b> dia/mês/ano do pagamento no formato dd/mm/aaaa;</li>
+<p><li><b>CNPJ/CPF do contribuinte:</b> CPF do inscrito;</li>
+<p><li><b>Nome do contribuinte:</b> nome completo do inscrito;</li>
+<p><li><b>Valor principal:</b> valor da inscrição de acordo com a modalidade adequada;</li>
+<p><li>Campos de <i>"Descontos/Abatimentos"</i>, <i>"Outras deduções"</i>, <i>"Mora/Multa"</i>, <i>"Juros/Encargos"</i> e <i>"Outros Acréscimos"</i> devem ser deixados em branco.</li>
+<p><li><b>Valor total:</b> repetir o valor principal</li>
+</ul>
+<p>
+<p>Gerar PDF ou baixar PDF, e realizar pagamento do GRU em dinheiro em uma agência do Banco do Brasil, ou também via aplicativo do Banco do Brasil. 
+<p>Após realizar o pagamento, envie o comprovante para o e-mail <b>cursodefilogenia.ufpr@gmail.com</b> para receber a confirmação de sua inscrição. Caso tenha optado por modalidade de inscrição que tenha um valor diferenciado em função de vínculo institucional e/ou educacional, enviar também comprovante do tipo de vínculo junto ao comprovante de pagamento.
+
+
+</div>
+</section>
+
+{{ define "inscricoes-links-list" }}
+<ul>
+ {{ range . }}
+ <li title="{{ .name }}">
+   <a target="_blank" href="{{ .url }}"><i class="{{ .icon }}"></i> {{ .name }}:</a> {{ .desc }}
+ </li>
+  {{ end }}
+</ul>
+{{ end }}

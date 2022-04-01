@@ -1,0 +1,156 @@
+=============================================Commands=============================================
+"C:\Users\Acer\AppData\Roaming\PhyloSuite\plugins\iqtree-1.6.8-Windows/bin/iqtree.exe" -s "Aula_05_Alinhamento_Concatenado.fas" -m TESTMERGEONLY -mset mrbayes -AICc -st DNA -sp "C:/Users/Acer/Desktop/aula_05/GenBank_File/files\ModelFinder_results\2020_11_14-17_36_14\MF_partition.txt" -nt AUTO -pre "Aula_05_Alinhamento_Concatenado_fas_mrbayes"
+==================================================================================================
+IQ-TREE multicore version 1.6.8 for Windows 64-bit built Oct 28 2018
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+Host:    DESKTOP-N7AK72L (AVX2, FMA3, 7 GB RAM)
+Command: C:\Users\Acer\AppData\Roaming\PhyloSuite\plugins\iqtree-1.6.8-Windows/bin/iqtree.exe -s Aula_05_Alinhamento_Concatenado.fas -m TESTMERGEONLY -mset mrbayes -AICc -st DNA -sp C:/Users/Acer/Desktop/aula_05/GenBank_File/files\ModelFinder_results\2020_11_14-17_36_14\MF_partition.txt -nt AUTO -pre Aula_05_Alinhamento_Concatenado_fas_mrbayes
+Seed:    638615 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Nov 14 17:36:14 2020
+Kernel:  AVX+FMA - auto-detect threads (4 CPU cores detected)
+Reading partition model file C:/Users/Acer/Desktop/aula_05/GenBank_File/files\ModelFinder_results\2020_11_14-17_36_14\MF_partition.txt ...
+Reading alignment file Aula_05_Alinhamento_Concatenado.fas ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 81 sequences with 1240 columns, 575 distinct patterns
+242 parsimony-informative, 164 singleton sites, 834 constant sites
+Gap/Ambiguity  Composition  p-value
+1  Consenso                               21.69%    passed     96.79%
+2  Fusarium_acutatum_NRRL13309            34.76%    passed     93.79%
+3  Fusarium_agapanthi_NRRL54463            5.56%    passed     91.79%
+4  Fusarium_ananatum_CBS118516            19.35%    passed     95.66%
+5  Fusarium_andiyazi_NRRL53928            34.92%    passed     89.94%
+6  Fusarium_anthophilum_NRRL13602          4.76%    passed     98.11%
+7  Fusarium_awaxy_ATCC_38016              26.69%    passed     88.76%
+8  Fusarium_awaxy_LGMF1930                 7.18%    passed     99.29%
+9  Fusarium_bactridioides_NRRL20476        5.16%    passed     94.60%
+10  Fusarium_begoniae_NRRL25300             4.84%    passed     98.78%
+11  Fusarium_brevicatenulatum_NRRL25446     4.27%    passed     99.63%
+12  Fusarium_bulbicola_NRRL13618            4.76%    passed     98.47%
+13  Fusarium_circinatum_NRRL25331           4.76%    passed     99.04%
+14  Fusarium_coicis_NRRL66233              13.63%    passed     95.99%
+15  Fusarium_concentricum_NRRL25181         5.32%    passed     96.36%
+16  Fusarium_denticulatum_NRRL25302         4.19%    passed     99.91%
+17  Fusarium_dlaminii_NRRL13164             3.95%    passed     99.95%
+18  Fusarium_ficicrescens_CBS125178        41.37%    passed     95.65%
+19  Fusarium_fracticaudum_CBS137233         4.92%    passed     99.84%
+20  Fusarium_fractiflexum_NRRL28852         4.68%    passed     97.40%
+21  Fusarium_fredikrugeri_CBS144209        20.56%    passed     98.95%
+22  Fusarium_fujikuroi_NRRL13998           35.24%    passed     97.73%
+23  Fusarium_globosum_NRRL26131             4.60%    passed     99.31%
+24  Fusarium_guttiforme_MRC_7539           60.56%    passed     93.75%
+25  Fusarium_konzum_CBS119849              21.61%    passed     94.79%
+26  Fusarium_lactis_NRRL25200               4.03%    passed     99.78%
+27  Fusarium_lumajangense_InaCC_F872       12.82%    passed     98.53%
+28  Fusarium_mangiferae_NRRL25226           5.24%    passed     99.84%
+29  Fusarium_marasasianum_CBS137238         4.84%    passed     99.42%
+30  Fusarium_mexicanum_NRRL53147            6.21%    passed     99.69%
+31  Fusarium_mundagurra_NRRL66235          56.05%    passed     86.54%
+32  Fusarium_musae_NRRL25059                4.11%    passed     98.77%
+33  Fusarium_napiforme_NRRL13604            3.71%    passed     99.84%
+34  Fusarium_nygamai_NRRL13488              4.19%    passed     98.18%
+35  Fusarium_oxysporum_NRRL22902            5.16%    passed     94.59%
+36  Fusarium_parvisorum_CBS137236           4.92%    passed     99.39%
+37  Fusarium_phyllophilum_NRRL13617         4.35%    passed     98.47%
+38  Fusarium_pininemorale_CBS137240         4.92%    passed     98.55%
+39  Fusarium_proliferatum_NRRL22944         4.52%    passed     98.67%
+40  Fusarium_pseudoanthophilum_NRRL25206    4.44%    passed     97.46%
+41  Fusarium_pseudocircinatum_NRRL22946     5.81%    passed     98.52%
+42  Fusarium_pseudonygamai_NRRL13592        4.27%    passed     99.22%
+43  Fusarium_ramigenum_NRRL25208            3.87%    passed     97.02%
+44  Fusarium_sacchari_NRRL13999             4.52%    passed     99.13%
+45  Fusarium_secorum_NRRL62593             47.98%    passed     94.65%
+46  Fusarium_siculi_CBS142422              14.68%    passed     95.14%
+47  Fusarium_sororula_CBS137242             6.94%    passed     98.34%
+48  Fusarium_sp_NRRL25195                   4.92%    passed     99.84%
+49  Fusarium_sp_NRRL25204                   4.76%    passed     99.68%
+50  Fusarium_sp_NRRL25221                   4.03%    passed     99.27%
+51  Fusarium_sp_NRRL25303                   5.24%    passed     97.85%
+52  Fusarium_sp_NRRL25309                   5.24%    passed     96.34%
+53  Fusarium_sp_NRRL25346                   4.92%    passed     98.77%
+54  Fusarium_sp_NRRL25615                   4.19%    passed     92.29%
+55  Fusarium_sp_NRRL25807                   4.92%    passed     99.45%
+56  Fusarium_sp_NRRL26064                   4.60%    passed     98.36%
+57  Fusarium_sp_NRRL26427                   5.40%    passed     98.81%
+58  Fusarium_sp_NRRL26756                   4.92%    passed     99.65%
+59  Fusarium_sp_NRRL26757                   4.92%    passed     99.35%
+60  Fusarium_sp_NRRL29124                   4.76%    passed     95.93%
+61  Fusarium_sterilihyphosum_NRRL25623      4.92%    passed     99.85%
+62  Fusarium_subglutinans_Fs_hap3          47.98%    passed     98.02%
+63  Fusarium_subglutinans_M03S_C1_1        47.98%    passed     98.02%
+64  Fusarium_subglutinans_MUCL52468         9.03%    passed     97.27%
+65  Fusarium_subglutinans_NRRL22016         4.84%    passed     98.69%
+66  Fusarium_subglutinans_NRRL53904        35.24%    passed     98.46%
+67  Fusarium_subglutinans_NRRL54158        35.24%    passed     98.46%
+68  Fusarium_subglutinans_OS15             52.74%    passed     98.18%
+69  Fusarium_subglutinans_RV23_2           54.84%    passed     98.21%
+70  Fusarium_succisae_NRRL13613             4.76%    passed     95.11%
+71  Fusarium_sudanense_NRRL26793           15.89%    passed     89.42%
+72  Fusarium_temperatum_MUCL52450           9.03%    passed     95.10%
+73  Fusarium_temperatum_NRRL25622           4.92%    passed     99.81%
+74  Fusarium_terricola_NRRL36490           55.73%    passed     87.52%
+75  Fusarium_thapsinum_NRRL22045            4.35%    passed     97.17%
+76  Fusarium_tjaetaba_NRRL66243            13.23%    passed     91.32%
+77  Fusarium_tupiense_NRRL53984             5.00%    passed     99.89%
+78  Fusarium_udum_NRRL22949                 4.27%    passed     99.25%
+79  Fusarium_verticillioides_NRRL22172      3.87%    passed     96.98%
+80  Fusarium_werrikimbe_CBS125535           9.35%    passed     96.58%
+81  Fusarium_xylarioides_NRRL25486          4.84%    passed     99.75%
+WARNING: 5 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                  13.68%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: No CharPartition defined, use all CharSets
+Loading 2 partitions...
+Subset	Type	Seqs	Sites	Infor	Invar	Model	Name
+1	DNA	81	687	156	439	TESTMERGEONLY	Aula_05_EF_Alinhamento_Corrigido
+2	DNA	73	553	86	395	TESTMERGEONLY	Aula_05_TUB_Alinhamento_Corrigido
+Degree of missing data: 0.044
+Info: multi-threading strategy over partitions
+NOTE: Fusarium_subglutinans_M03S_C1_1 is identical to Fusarium_subglutinans_Fs_hap3 but kept for subsequent analysis
+NOTE: Fusarium_subglutinans_NRRL54158 is identical to Fusarium_subglutinans_NRRL53904 but kept for subsequent analysis
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.014 seconds
+NOTE: ModelFinder requires 5 MB RAM!
+NUMBER OF THREADS FOR PARTITION FINDING: 3
+Testing GTR+F+G on supermatrix...
+GTR+F+G4 / LnL: -6850.628 / df: 168 / AIC: 14037.256 / AICc: 14090.275 / BIC: 14897.897
+Selecting individual models for 2 charsets using AICc...
+No. Model        Score       Charset
+1 SYM+I+G4     9038.751    Aula_05_EF_Alinhamento_Corrigido
+2 SYM+G4       5250.207    Aula_05_TUB_Alinhamento_Corrigido
+Full partition model AICc score: 14286.871 (LnL: -6720.708  df:315)
+Merging models to increase model fit (about 3 total partition schemes)...
+3 GTR+F+I+G4   14083.219   Aula_05_EF_Alinhamento_Corrigido+Aula_05_TUB_Alinhamento_Corrigido
+Merging Aula_05_EF_Alinhamento_Corrigido+Aula_05_TUB_Alinhamento_Corrigido with AICc score: 14083.219 (LnL: -6845.759  df: 169)
+BEST-FIT PARTITION MODEL:
+charpartition AICc = GTR+F+I+G4: Aula_05_EF_Alinhamento_Corrigido Aula_05_TUB_Alinhamento_Corrigido;
+Agglomerative model selection: (Aula_05_EF_Alinhamento_Corrigido,Aula_05_TUB_Alinhamento_Corrigido)1:14083.2
+Merging into 1 partitions...
+Partition information was printed to Aula_05_Alinhamento_Concatenado_fas_mrbayes.best_scheme.nex
+Partition information in Raxml format was printed to Aula_05_Alinhamento_Concatenado_fas_mrbayes.best_scheme
+All model information printed to Aula_05_Alinhamento_Concatenado_fas_mrbayes.model.gz
+CPU time for ModelFinder: 6.766 seconds (0h:0m:6s)
+Wall-clock time for ModelFinder: 4.541 seconds (0h:0m:4s)
+NOTE: 6 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 4 CPU cores
+Increase to 10 rounds for branch lengths
+40 trees examined
+Threads: 1 / Time: 4.073 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -11389
+Threads: 2 / Time: 3.612 sec / Speedup: 1.128 / Efficiency: 56% / LogL: -11389
+Threads: 3 / Time: 3.853 sec / Speedup: 1.057 / Efficiency: 35% / LogL: -11389
+BEST NUMBER OF THREADS: 2
+Estimate model parameters (epsilon = 0.010)
+Optimizing GTR+F+I+G4 parameters for partition Aula_05_EF_Alinhamento_Corrigido+Aula_05_TUB_Alinhamento_Corrigido (169 free parameters)
+Optimal log-likelihood: -6845.722
+BEST SCORE FOUND : -6845.722
+Total tree length: 0.789
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 54.812 sec (0h:0m:54s)
+Total wall-clock time used: 32.058 sec (0h:0m:32s)
+Analysis results written to:
+IQ-TREE report:                Aula_05_Alinhamento_Concatenado_fas_mrbayes.iqtree
+Tree used for ModelFinder:     Aula_05_Alinhamento_Concatenado_fas_mrbayes.treefile
+Best partitioning scheme:      Aula_05_Alinhamento_Concatenado_fas_mrbayes.best_scheme.nex
+in RAxML format:      Aula_05_Alinhamento_Concatenado_fas_mrbayes.best_scheme
+Screen log file:               Aula_05_Alinhamento_Concatenado_fas_mrbayes.log
+Date and Time: Sat Nov 14 17:36:51 2020

@@ -1,0 +1,185 @@
+IQ-TREE multicore version 1.6.8 for Windows 64-bit built Oct 28 2018
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    DESKTOP-N7AK72L (AVX2, FMA3, 7 GB RAM)
+Command: C:\Users\Acer\AppData\Roaming\PhyloSuite\plugins\iqtree-1.6.8-Windows/bin/iqtree.exe -s Aula_03_Alinhamento_Corrigido.fasta -m TESTONLY -mset mrbayes -AICc -st DNA -nt AUTO -pre Aula_03_Alinhamento_Corrigido_fasta_mrbayes
+Seed:    999946 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Nov 10 15:40:36 2020
+Kernel:  AVX+FMA - auto-detect threads (4 CPU cores detected)
+
+Reading alignment file Aula_03_Alinhamento_Corrigido.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 81 sequences with 687 columns, 354 distinct patterns
+156 parsimony-informative, 92 singleton sites, 439 constant sites
+                                      Gap/Ambiguity  Composition  p-value
+   1  Fusarium_acutatum_NRRL13309            24.45%    passed     96.19%
+   2  Fusarium_secorum_NRRL62593              6.11%    passed     99.13%
+   3  Fusarium_phyllophilum_NRRL13617         5.82%    passed     96.25%
+   4  Fusarium_sp_NRRL26064                   6.26%    passed     98.41%
+   5  Fusarium_udum_NRRL22949                 5.68%    passed     98.73%
+   6  Fusarium_xylarioides_NRRL25486          6.70%    passed     99.55%
+   7  Fusarium_mundagurra_NRRL66235          20.67%    passed     90.28%
+   8  Fusarium_sp_NRRL25221                   5.24%    passed     98.89%
+   9  Fusarium_dlaminii_NRRL13164             5.09%    passed     99.84%
+  10  Fusarium_fractiflexum_NRRL28852         6.26%    passed     99.74%
+  11  Fusarium_globosum_NRRL26131             5.97%    passed     96.99%
+  12  Fusarium_siculi_CBS142422              17.61%    passed     67.03%
+  13  Fusarium_proliferatum_NRRL22944         5.97%    passed     95.82%
+  14  Fusarium_fujikuroi_NRRL13998           25.33%    passed     61.11%
+  15  Fusarium_concentricum_NRRL25181         7.42%    passed     93.08%
+  16  Fusarium_sp_NRRL25303                   7.28%    passed     94.98%
+  17  Fusarium_sp_NRRL25309                   7.28%    passed     92.70%
+  18  Fusarium_lumajangense_InaCC_F872       18.63%    passed     94.41%
+  19  Fusarium_mangiferae_NRRL25226           7.28%    passed     98.49%
+  20  Fusarium_sp_NRRL26427                   7.57%    passed     96.43%
+  21  Fusarium_fredikrugeri_CBS144209         6.99%    passed     99.91%
+  22  Fusarium_sacchari_NRRL13999             5.97%    passed     98.26%
+  23  Fusarium_andiyazi_NRRL53928            24.75%    passed     95.14%
+  24  Fusarium_tjaetaba_NRRL66243            21.25%    passed     91.27%
+  25  Fusarium_brevicatenulatum_NRRL25446     5.97%    passed     99.28%
+  26  Fusarium_pseudoanthophilum_NRRL25206    6.40%    passed     92.66%
+  27  Fusarium_pseudonygamai_NRRL13592        6.11%    passed     98.54%
+  28  Fusarium_lactis_NRRL25200               5.68%    passed     99.55%
+  29  Fusarium_ficicrescens_CBS125178        36.39%    passed     97.80%
+  30  Fusarium_sudanense_NRRL26793           20.23%    passed     94.36%
+  31  Fusarium_terricola_NRRL36490           20.09%    passed     90.10%
+  32  Fusarium_coicis_NRRL66233              21.11%    passed     92.26%
+  33  Fusarium_sp_NRRL25615                   6.11%    passed     94.46%
+  34  Fusarium_napiforme_NRRL13604            5.97%    passed     96.65%
+  35  Fusarium_ramigenum_NRRL25208            6.26%    passed     97.27%
+  36  Fusarium_nygamai_NRRL13488              5.68%    passed     95.49%
+  37  Fusarium_pseudocircinatum_NRRL22946     6.11%    passed     95.14%
+  38  Fusarium_musae_NRRL25059                5.97%    passed     87.93%
+  39  Fusarium_verticillioides_NRRL22172      5.53%    passed     88.25%
+  40  Fusarium_oxysporum_NRRL22902            6.99%    passed     95.80%
+  41  Fusarium_thapsinum_NRRL22045            6.99%    passed     91.88%
+  42  Fusarium_agapanthi_NRRL54463            5.97%    passed     91.68%
+  43  Fusarium_ananatum_CBS118516             6.55%    passed     98.18%
+  44  Fusarium_begoniae_NRRL25300             6.55%    passed     99.66%
+  45  Fusarium_guttiforme_MRC_7539           28.82%    passed     96.05%
+  46  Fusarium_anthophilum_NRRL13602          6.40%    passed     99.48%
+  47  Fusarium_circinatum_NRRL25331           6.40%    passed     99.89%
+  48  Fusarium_sp_NRRL29124                   6.40%    passed     99.73%
+  49  Fusarium_sororula_CBS137242            10.48%    passed     99.72%
+  50  Fusarium_sp_NRRL25204                   6.40%    passed     99.77%
+  51  Fusarium_fracticaudum_CBS137233         6.70%    passed     99.01%
+  52  Fusarium_parvisorum_CBS137236           6.70%    passed     99.01%
+  53  Fusarium_marasasianum_CBS137238         6.70%    passed     99.75%
+  54  Fusarium_pininemorale_CBS137240         6.84%    passed     98.54%
+  55  Fusarium_subglutinans_MUCL52468         9.90%    passed     94.60%
+  56  Fusarium_subglutinans_NRRL22016         6.40%    passed     98.67%
+  57  Fusarium_subglutinans_NRRL53904        25.33%    passed     97.65%
+  58  Fusarium_subglutinans_NRRL54158        25.33%    passed     97.65%
+  59  Fusarium_bulbicola_NRRL13618            6.40%    passed     98.61%
+  60  Fusarium_werrikimbe_CBS125535          10.63%    passed     98.88%
+  61  Fusarium_temperatum_MUCL52450           9.90%    passed     96.77%
+  62  Fusarium_temperatum_NRRL25622           6.55%    passed     99.88%
+  63  Fusarium_awaxy_LGMF1930                 8.30%    passed     99.95%
+  64  Fusarium_awaxy_ATCC_38016               8.88%    passed     99.94%
+  65  Fusarium_subglutinans_RV23_2           18.49%    passed     99.98%
+  66  Fusarium_subglutinans_OS15             14.70%    passed     99.78%
+  67  Fusarium_subglutinans_Fs_hap3           6.11%    passed     99.04%
+  68  Fusarium_subglutinans_M03S_C1_1         6.11%    passed     99.04%
+  69  Fusarium_mexicanum_NRRL53147            6.70%    passed     99.75%
+  70  Fusarium_sp_NRRL26756                   6.70%    passed    100.00%
+  71  Fusarium_sp_NRRL26757                   6.70%    passed     99.92%
+  72  Fusarium_sp_NRRL25346                   6.70%    passed     99.91%
+  73  Fusarium_sp_NRRL25195                   6.70%    passed     99.39%
+  74  Fusarium_sterilihyphosum_NRRL25623      6.70%    passed     99.43%
+  75  Fusarium_tupiense_NRRL53984             6.70%    passed     99.58%
+  76  Fusarium_sp_NRRL25807                   6.70%    passed     99.15%
+  77  Fusarium_succisae_NRRL13613             6.40%    passed     93.58%
+  78  Fusarium_bactridioides_NRRL20476        6.99%    passed     94.95%
+  79  Consenso                               32.61%    passed     77.15%
+  80  Fusarium_konzum_CBS119849              14.26%    passed     97.52%
+  81  Fusarium_denticulatum_NRRL25302         5.97%    passed     97.21%
+****  TOTAL                                  10.28%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: Fusarium_subglutinans_NRRL54158 is identical to Fusarium_subglutinans_NRRL53904 but kept for subsequent analysis
+NOTE: Fusarium_subglutinans_M03S_C1_1 is identical to Fusarium_subglutinans_Fs_hap3 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.017 seconds
+NOTE: ModelFinder requires 3 MB RAM!
+ModelFinder will test 24 DNA models (sample size: 687) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Measuring multi-threading efficiency up to 4 CPU cores
+Increase to 10 rounds for branch lengths
+97 trees examined
+Threads: 1 / Time: 4.020 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -8833
+Threads: 2 / Time: 2.978 sec / Speedup: 1.350 / Efficiency: 67% / LogL: -8833
+Threads: 3 / Time: 5.710 sec / Speedup: 0.704 / Efficiency: 23% / LogL: -8833
+BEST NUMBER OF THREADS: 2
+
+  1  JC            4653.983     159 9625.967     9722.513     10346.608
+  2  JC+I          4494.807     160 9309.613     9407.560     10034.787
+  3  JC+G4         4478.254     160 9276.507     9374.454     10001.681
+  4  JC+I+G4       4475.670     161 9273.340     9372.700     10003.046
+  5  F81+F         4634.678     162 9593.356     9694.142     10327.594
+  6  F81+F+I       4470.456     163 9266.912     9369.137     10005.682
+  7  F81+F+G4      4454.032     163 9234.064     9336.290     9972.835
+  8  F81+F+I+G4    4451.288     164 9230.576     9334.254     9973.879
+  9  K2P           4494.416     160 9308.831     9406.778     10034.005
+ 10  K2P+I         4332.362     161 8986.723     9086.083     9716.429
+ 11  K2P+G4        4315.069     161 8952.138     9051.498     9681.844
+ 12  K2P+I+G4      4312.229     162 8948.457     9049.244     9682.696
+ 13  HKY+F         4479.235     163 9284.471     9386.696     10023.241
+ 14  HKY+F+I       4319.855     164 8967.710     9071.389     9711.013
+ 15  HKY+F+G4      4302.046     164 8932.092     9035.770     9675.394
+ 16  HKY+F+I+G4    4299.309     165 8928.618     9033.762     9676.453
+ 17  SYM           4459.050     164 9246.101     9349.779     9989.404
+ 18  SYM+I         4312.630     165 8955.261     9060.405     9703.096
+ 19  SYM+G4        4290.815     165 8911.629     9016.773     9659.464
+ 20  SYM+I+G4      4288.342     166 8908.684     9015.307     9661.051
+ 21  GTR+F         4456.894     167 9247.788     9355.904     10004.688
+ 22  GTR+F+I       4307.069     168 8950.139     9059.761     9711.571
+ 23  GTR+F+G4      4285.944     168 8907.887     9017.509     9669.319
+ 24  GTR+F+I+G4    4283.457     169 8904.915     9016.056     9670.879
+Akaike Information Criterion:           GTR+F+I+G4
+Corrected Akaike Information Criterion: SYM+I+G4
+Bayesian Information Criterion:         SYM+G4
+Best-fit model: SYM+I+G4 chosen according to AICc
+
+All model information printed to Aula_03_Alinhamento_Corrigido_fasta_mrbayes.model.gz
+CPU time for ModelFinder: 18.266 seconds (0h:0m:18s)
+Wall-clock time for ModelFinder: 14.457 seconds (0h:0m:14s)
+
+NOTE: 3 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 4 CPU cores
+Increase to 10 rounds for branch lengths
+47 trees examined
+Threads: 1 / Time: 4.068 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -7301
+Threads: 2 / Time: 3.901 sec / Speedup: 1.043 / Efficiency: 52% / LogL: -7301
+Threads: 3 / Time: 4.574 sec / Speedup: 0.889 / Efficiency: 30% / LogL: -7301
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.010)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.000, 0.364 / LogL: -4290.812
+Init pinv, alpha: 0.071, 1.000 / Estimate: 0.211, 0.574 / LogL: -4288.727
+Init pinv, alpha: 0.142, 1.000 / Estimate: 0.212, 0.576 / LogL: -4288.720
+Init pinv, alpha: 0.213, 1.000 / Estimate: 0.220, 0.588 / LogL: -4288.676
+Init pinv, alpha: 0.284, 1.000 / Estimate: 0.289, 0.721 / LogL: -4288.372
+Init pinv, alpha: 0.355, 1.000 / Estimate: 0.354, 0.910 / LogL: -4288.396
+Init pinv, alpha: 0.426, 1.000 / Estimate: 0.368, 0.963 / LogL: -4288.465
+Init pinv, alpha: 0.497, 1.000 / Estimate: 0.368, 0.964 / LogL: -4288.474
+Init pinv, alpha: 0.568, 1.000 / Estimate: 0.367, 0.961 / LogL: -4288.482
+Init pinv, alpha: 0.639, 1.000 / Estimate: 0.367, 0.961 / LogL: -4288.500
+Optimal pinv,alpha: 0.289, 0.721 / LogL: -4288.372
+
+Parameters optimization took 13.045 sec
+BEST SCORE FOUND : -4288.372
+Total tree length: 0.964
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 30.141 sec (0h:0m:30s)
+Total wall-clock time used: 25.613 sec (0h:0m:25s)
+
+Analysis results written to: 
+  IQ-TREE report:                Aula_03_Alinhamento_Corrigido_fasta_mrbayes.iqtree
+  Tree used for ModelFinder:     Aula_03_Alinhamento_Corrigido_fasta_mrbayes.treefile
+  Screen log file:               Aula_03_Alinhamento_Corrigido_fasta_mrbayes.log
+
+Date and Time: Tue Nov 10 15:41:16 2020

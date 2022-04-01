@@ -1,0 +1,3 @@
+Sequence_ID	Organism	Strain	Collected_by	Collection_date	Country	Identified_by	Host	Isolation_source	Culture_Collection	Note
+Seq1	Fusarium awaxy	LGMF 1661	Terasawa, F.	18-Feb-2016	Brazil	Petters, D.A.L.	Zea mays	Maize ear	LGMF:1661	Fusarium fujikuroi species complex
+Seq2	Fusarium awaxy	LGMF 1930	Terasawa, F.	17-mar-2016	Brazil	Petters, D.A.L.	Zea mays	Maize stalk	LGMF:1930	Fusarium fujikuroi species complex
