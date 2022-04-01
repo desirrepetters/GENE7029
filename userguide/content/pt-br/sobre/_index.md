@@ -1,13 +1,13 @@
 ---
-title: Sobre o curso
-linkTitle: Sobre o curso
+title: Sobre a disciplina
+linkTitle: Sobre a disciplina
 menu:
   main:
     weight: 10
 layout: docs
 ---
 
-{{% blocks/cover title="Como o curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética pode te ajudar?" height="auto" color="black" %}}
+{{% blocks/cover title="Como a disciplina de Sequências de DNA na Identificação de Espécies e Análise Filogenética pode te ajudar?" height="auto" color="black" %}}
 
 {{% /blocks/cover %}}
 
@@ -17,24 +17,20 @@ Independentemente do contexto, a qualidade da comunicação científica e de tro
 
 Nesse sentido, o uso de sequências de DNA e análises filogenéticas permite que nossa compreensão da biodiversidade e a capacidade de descobrir novas espécies cresçam continuamente e exponencialmente, gerando ganhos em diversas áreas. Entretanto, estas ferramentas também trazem diversos desafios: sem o preparo e conhecimento adequado, possíveis erros de identificação podem acontecer e gerar sérios problemas e prejuízos. 
 
-Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e Análise Filogenética" é proporcionar o treinamento adequado com as melhores práticas em todas as etapas do processo, desde a obtenção das sequências até à precisa identificação da espécie. Com um conteúdo detalhado e tutoriais para todas as etapas, nosso objetivo é explorar estes temas de forma descomplicada e fornecer à você autonomia para empregar sequências de DNA e análises filogenéticas em seus projetos!
+Nossa proposta com a disciplina "Sequências de DNA na Identificação de Espécies e Análise Filogenética" é proporcionar o treinamento adequado com as melhores práticas em todas as etapas do processo, desde a obtenção das sequências até à precisa identificação da espécie. Com um conteúdo detalhado e tutoriais para todas as etapas, nosso objetivo é explorar estes temas de forma descomplicada e fornecer à você autonomia para empregar sequências de DNA e análises filogenéticas em seus projetos!
 
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
 
-<h2>Como o curso está estruturado?</h2> 
+<h2>Como a disciplina está estruturada?</h2> 
 <p><p>
-O curso conta com aulas teóricas e práticas, as quais serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para o participantes, e também por meio de uma apostila.
+A disciplina conta com aulas teóricas e práticas, as quais serão realizadas presencialmente no Departmento de Genética da UFPR, e com aulas e materiais extras previamente gravados, que poderão ser assistidos a qualquer momento. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para os discentes, e também por meio de uma apostila.
 <p><p>
 
 <h2>Quais são as datas?</h2>
 <p><p>
-Para a turma 01, as aulas ocorreram entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020, nas segundas pela manhã (09:00 até 13:00) e quintas à tarde (13:30 até 17:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
-<p>
-Para a turma 02,as aulas ocorreram entre os dias 30 de Novembro de 2020 e 18 de Dezembro de 2020. nas segundas e quartas à tarde (13:30 até 17:30) e sextas pela manhã (08:30-12:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
-<p>
-A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser informado sobre as datas e mais detalhes futuramente, clique <a href="https://forms.gle/ddmNQn6eBntGuUYg9">aqui</a> para se cadastrar na nossa lista de espera.
+Para a turma do primeiro semestre de 2022. as aulas ocorrerão entre os dias 05 de Abril e 12 de Julho de 2022, nas terças pela manhã (09:00 até 12:00). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também poderão ser resolvidas via e-mail.
 <p><p>
 
 <h2>Quais conteúdos serão abordados?</h2>
@@ -139,13 +135,13 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<b>Desirrê Petters-Vandresen</b> é aluna de pós-doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
 <ul>
-<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
-<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
+<li style="text-align: left">Filogenia e Taxonomia Molecular de fungos</li>
+<li style="text-align: left">Genômica comparativa e evolução de fungos fitopatogênicos e endofíticos</li>
 </ul>
 
 <strong>Formação</strong>
@@ -153,7 +149,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <ul>
 <li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
 <li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
-<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+<li>Doutorado em Genética - Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (2022)</li>
 </ul>
 </td>
 <td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/desirre.jpg" alt="Foto de Perfil de Desirrê Petters-Vandresen" width="310"/></td>
@@ -166,7 +162,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 ## Acompanhe nosso trabalho junto ao Laboratório BioGeMM!
 <p><p>
-O curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Bioprospecção e Genética Molecular de Microrganismos, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
+A disciplina de Sequências de DNA na Identificação de Espécies e Análise Filogenética é promovida e ofertada pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Bioprospecção e Genética Molecular de Microrganismos, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
 Você pode visitar o site do [Laboratório BioGeMM](https://www.bio.ufpr.br/portal/biogemm/) para conhecer melhor a nossa [equipe](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/equipe/), [linhas de pesquisa](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/linhas-de-pesquisa/), [produção acadêmica](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/publicacoes/), e também saber das últimas novidades e publicações mais recentes!
 
