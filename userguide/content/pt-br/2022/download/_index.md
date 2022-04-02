@@ -20,7 +20,7 @@ Nesta seção da apostila, listaremos os softwares que serão utilizados durante
 Em alguns casos, os softwares não são aplicativos verificados pela Microsoft Store, e a seguinte notificação pode surgir durante a instalação:
 <br><br>
 <center>
-<img src="https://github.com/desirrepetters/cursodefilogenia.ufpr/blob/master/userguide/content/pt-br/docs/download/primeiros_passos_1.png" alt="Notificação da Microsoft Store durante instalação de aplicativos não verificados" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/primeiros_passos_1.png" alt="Notificação da Microsoft Store durante instalação de aplicativos não verificados" align="center">
 </center>
 <br><br>
 A falta de certificação pela Microsoft Store (e outras) existe porque muitos dos softwares gratuitos que utilizamos são provenientes de projetos independentes, muitas vezes gerenciados por pesquisadores ou pequenos grupos de pesquisa. Para esses projetos independentes, o processo de certificação pode ser extremamente demorado e financeiramente oneroso, e inviabilizaria o projeto. 
