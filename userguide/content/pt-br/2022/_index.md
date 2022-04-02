@@ -17,6 +17,6 @@ Este material faz parte da disciplina “GENE7029 - Sequências de DNA na Identi
 ## Pronto para começar?
 
 <div align="justify">
-Que tal começar pelo <a href="https://cursodefilogeniaufpr.netlify.app/2022/download">download e instalação</a> dos softwares que são utilizados nas <a href="https://cursodefilogeniaufpr.netlify.app/2022/praticas">aulas práticas</a>? Ou que tal começar a estudar o <a href="https://cursodefilogeniaufpr.netlify.app/2022/teoricas">conteúdo teórico?</a> A lista completa dos conteúdos também pode ser consultada abaixo!
+Que tal começar pelo <a href="https://gene7029.netlify.app/2022/download">download e instalação</a> dos softwares que são utilizados nas <a href="https://gene7029.netlify.app/2022/praticas">aulas práticas</a>? Ou que tal começar a estudar o <a href="https://gene7029.netlify.app/2022/teoricas">conteúdo teórico?</a> A lista completa dos conteúdos também pode ser consultada abaixo!
 </div>
 
