@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 Com o nosso alinhamento devidamente inspecionado e corrigido, a próxima etapa é descobrir qual o modelo evolutivo mais se ajusta ao nosso alinhamento, para que possamos implementá-lo em nossa análise filogenética. 
 <br><br>
-Para este tutorial, utilizaremos o plugin do ModelFinder dentro do PhyloSuite, e como possibilidade extra, podemos utilizar o jModelTest (em sua versão instalada ou no portal <a href="https://www.phylo.org/">CIPRES</a>). Se você ainda não tem o PhyloSuite instalado com os plugins do ModelFinder e do IQ-TREE configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Caso prefira utilizar o jModelTest, pode encontrar instruções de instalação <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/jmodeltest">aqui</a>.
+Para este tutorial, utilizaremos o plugin do ModelFinder dentro do PhyloSuite, e como possibilidade extra, podemos utilizar o jModelTest (em sua versão instalada ou no portal <a href="https://www.phylo.org/">CIPRES</a>). Se você ainda não tem o PhyloSuite instalado com os plugins do ModelFinder e do IQ-TREE configurados, pode encontrar instruções <a href="https://gene7029.netlify.app/2022/download/phylosuite">aqui</a>. Caso prefira utilizar o jModelTest, pode encontrar instruções de instalação <a href="https://gene7029.netlify.app/2022/download/jmodeltest">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>

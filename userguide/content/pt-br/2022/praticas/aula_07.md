@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 Uma vez que obtivemos nossas árvores filogenéticas, precisamos avaliá-las e interpretá-las para decidirmos se ainda há modificações necessárias ou se já estão adequadas aos nossos objetivos. Além disso, estando adequadas, precisamos prepará-las esteticamente para compor nossas apresentações e publicações. Nesta atividade, iremos utilizar softwares que nos permitem visualizar nossas árvores e fazer pequenas modificações estéticas que facilitarão a edição final para o padrão exigido em uma publicação ou apresentação.
 <br><br>
-Para este tutorial, utilizaremos o FigTree. Se você ainda não tem o FigTree instalado, pode encontrar instruções <a href="https://cursodefilogeniaufpr/docs/download/figtree">aqui</a>. Caso opte por utilizar o iTOL, pode acessá-lo <a href="https://itol.embl.de/">aqui</a>.
+Para este tutorial, utilizaremos o FigTree. Se você ainda não tem o FigTree instalado, pode encontrar instruções <a href="https://gene7029/2022/download/figtree">aqui</a>. Caso opte por utilizar o iTOL, pode acessá-lo <a href="https://itol.embl.de/">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>

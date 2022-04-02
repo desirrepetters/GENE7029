@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 Agora que temos um alinhamento corrigido e determinamos o modelo evolutivo mais adequado a ser implementado, finalmente chegou a hora de realizar a análise filogenética e obter as tão desejadas árvores.
 <br><br>
-Para este tutorial, utilizaremos os plugin do IQ-TREE e do MrBayes dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique <a href="http://iqtree.cibiv.univie.ac.at/">aqui</a>. Já para utilizar o MrBayes online, as opções são o <a href="https://ngphylogeny.fr/">NGPhylogeny.fr</a> e o <a href="http://www.phylo.org/">CIPRES</a>.
+Para este tutorial, utilizaremos os plugin do IQ-TREE e do MrBayes dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://gene7029.netlify.app/2022/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique <a href="http://iqtree.cibiv.univie.ac.at/">aqui</a>. Já para utilizar o MrBayes online, as opções são o <a href="https://ngphylogeny.fr/">NGPhylogeny.fr</a> e o <a href="http://www.phylo.org/">CIPRES</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>

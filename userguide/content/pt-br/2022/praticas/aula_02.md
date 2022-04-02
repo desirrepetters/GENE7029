@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 Após realizar a análise dos eletroferogramas da nossa sequência interesse e atestar sua qualidade e confiabilidade, podemos aprofundar nossas análises filogenéticas. Seja para identificar o indivíduo analisado ou entender como ele se relaciona à outras espécies próximas, precisamos de sequências de referência adicionais para comparação. Depois de definir o conjunto de sequências que serão utilizadas, é necessário construir o alinhamento que será submetido à análise filogenética.
 <br><br>
-Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI GenBank</a> e utilizaremos os softwares Notepad ++, MEGA (na versão MEGA7 ou MEGA X) e MAFFT (na versão <a href="https://mafft.cbrc.jp/alignment/server/">online</a> ou como plugin do PhyloSuite). Se você ainda não tem estes softwares instalados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/">aqui</a>.
+Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI GenBank</a> e utilizaremos os softwares Notepad ++, MEGA (na versão MEGA7 ou MEGA X) e MAFFT (na versão <a href="https://mafft.cbrc.jp/alignment/server/">online</a> ou como plugin do PhyloSuite). Se você ainda não tem estes softwares instalados, pode encontrar instruções <a href="https://gene7029.netlify.app/2022/download/">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
@@ -234,7 +234,7 @@ Para inspeção visual e edição, abriremos o alinhamento no software MEGA 7 ou
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_19.png" alt="Instruções para abrir um arquivo de alinhamento no MEGA" align="center">
 </center>
 <br><br>
-Ao abrir o alinhamento na aba do Explorador de Alinhamentos, vemos que nem todas as sequências tem o mesmo comprimento: algumas são mais longas que outras, de modo que as mais curtas acabam possuindo vários “gaps” no começo e no final. Nesse sentido, é importante cortar um pouco do início e do final do alinhamento para que o alinhamento consista de regiões representadas pela maioria das sequências. Podemos selecionar e deletar estas bases do começo e do final da mesma forma que fizemos ao produzir a sequência consenso na <a href="https://cursodefilogeniaufpr.netlify.app/docs/praticas/aula_02/#o-que-%C3%A9-e-como-analisar-um-eletroferograma">Aula 01</a>.
+Ao abrir o alinhamento na aba do Explorador de Alinhamentos, vemos que nem todas as sequências tem o mesmo comprimento: algumas são mais longas que outras, de modo que as mais curtas acabam possuindo vários “gaps” no começo e no final. Nesse sentido, é importante cortar um pouco do início e do final do alinhamento para que o alinhamento consista de regiões representadas pela maioria das sequências. Podemos selecionar e deletar estas bases do começo e do final da mesma forma que fizemos ao produzir a sequência consenso na <a href="https://gene7029.netlify.app/2022/praticas/aula_02/#o-que-%C3%A9-e-como-analisar-um-eletroferograma">Aula 01</a>.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_02/aula_02_20.png" alt="Corte nas porções inicial e final do alinhamento" align="center">

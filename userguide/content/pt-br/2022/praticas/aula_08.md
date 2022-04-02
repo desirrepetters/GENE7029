@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 Na atividade anterior pudemos perceber que o uso do FigTree é importante e necessário para incluir os valores de suporte na árvore e também pode auxiliar a realizar uma pré-edição e customização simples da imagem. Essa customização nos permite produzir imagens simples e razoáveis para interpretação e discussão de uma árvore, e podem atender bem às necessidades durante o período em que uma análise está sendo refinada e diversas árvores parciais são construídas. Entretanto, as limitações do FigTree não nos permitem produzir uma imagem final que atenda às exigências das publicações e apresentações científicas. Nessa atividade, vamos terminar a edição das árvores filogenéticas e preparar imagens com qualidade suficiente para compor uma publicação. 
 <br><br>
-Para este tutorial, utilizaremos o Inkscape. Se você ainda não tem o Inkscape instalado, pode encontrar instruções <a href="https://cursodefilogeniaufpr/docs/download/inkscape">aqui</a>.
+Para este tutorial, utilizaremos o Inkscape. Se você ainda não tem o Inkscape instalado, pode encontrar instruções <a href="https://gene7029.netlify.app/2022/download/inkscape">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>

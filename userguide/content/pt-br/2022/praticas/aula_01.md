@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 A primeira etapa para uma análise filogenética de qualidade e um procedimento de identificação de espécies bem-sucedido envolve um bom processamento de sequências de DNA. Se feito de forma correta, este processo irá garantir que estamos trabalhando com sequências confiáveis e sem informações espúrias.
 <br><br>
-Para este tutorial, iremos utilizar o software MEGA, seja na versão MEGA 7 ou MEGA X. Se você ainda não tem este software instalado, pode encontrar instruções <a href="https://gene7029.netlify.app/docs/download/mega/">aqui</a>.
+Para este tutorial, iremos utilizar o software MEGA, seja na versão MEGA 7 ou MEGA X. Se você ainda não tem este software instalado, pode encontrar instruções <a href="https://gene7029.netlify.app/2022/download/mega/">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>

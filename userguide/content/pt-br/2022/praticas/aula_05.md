@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 Há diversas situações em que se faz necessário utilizar mais de um gene ou região genômica na análise filogenética para que seja possível identificar um organismo ou delimitar espécies com sucesso. Neste exemplo, iremos criar um alinhamento concatenado e estimar o modelo evolutivo mais adequado para sua análise. Esses resultados serão a base para nossa próxima atividade, em que finalmente realizaremos a análise filogenética com o alinhamento concatenado.
 <br><br>
-Para este tutorial, utilizaremos os plugin do ModelFinder e do PartitionFinder dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>.
+Para este tutorial, utilizaremos os plugin do ModelFinder e do PartitionFinder dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://gene7029.netlify.app/2022/download/phylosuite">aqui</a>.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>

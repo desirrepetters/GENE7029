@@ -6,9 +6,9 @@ description: >
   Softwares utilizados: IQ-TREE e MrBayes no PhyloSuite e versões online do IQ-TREE e MrBayes
 ---
 <div align="justify">
-Nesta atividade, incorporaremos mais uma região genômica à nossa análise filogenética inicial realizada na <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/praticas/aula_04/">Aula 04</a>, e avaliaremos a diferença de resolução observada para alguns clados.
+Nesta atividade, incorporaremos mais uma região genômica à nossa análise filogenética inicial realizada na <a href="https://gene7029.netlify.app/2022/praticas/aula_04/">Aula 04</a>, e avaliaremos a diferença de resolução observada para alguns clados.
 <br><br>
-Para este tutorial, utilizaremos os plugins IQ-TREE e do MrBayes dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://cursodefilogeniaufpr.netlify.app/docs/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique aqui. Já para utilizar o MrBayes online, a principal opção é o <a href="http://www.phylo.org/">CIPRES</a>, visto que no momento o NGPhylogeny.fr é limitado à análises com apenas um gene/alinhamento.
+Para este tutorial, utilizaremos os plugins IQ-TREE e do MrBayes dentro do PhyloSuite. Se você ainda não tem o PhyloSuite instalado com estes plugins configurados, pode encontrar instruções <a href="https://gene7029.netlify.app/2022/download/phylosuite">aqui</a>. Para utilizar o IQ-TREE online, clique aqui. Já para utilizar o MrBayes online, a principal opção é o <a href="http://www.phylo.org/">CIPRES</a>, visto que no momento o NGPhylogeny.fr é limitado à análises com apenas um gene/alinhamento.
 <br><br>
 Clique nos links abaixo para baixar os arquivos que serão utilizados nesta prática:
 <br><br>
@@ -45,7 +45,7 @@ Após realizar o teste de modelo evolutivo tanto com o ModelFinder quanto com o 
 <li><b>Outgroup:</b> aqui devemos selecionar o(s) outgroup(s) a ser utilizado, dentre os todos os indíviduos incluídos na análise. O IQ-TREE suporta a inclusão de mais de um indivíduo como outgroup. Entre parênteses, o IQ-TREE mostra quantos indivíduos foram selecionados (no exemplo, apenas um, <i>Fusarium oxysporum</i>).</li>
 </ul>
 <br><br>
-Já na seção “<i>Branch Support Analysis</i>”, configuraremos parâmetros relacionados ao método de bootstrap para cálculo do suporte dos ramos, de forma similar ao que fizemos na <a href="https://cursodefilogeniaufpr.netlify.app/docs/praticas/aula_04/#análise-filogenética-de-máxima-verossimilhança-com-o-iq-tree-usando-o-plugin-do-phylosuite">Aula 04</a>:
+Já na seção “<i>Branch Support Analysis</i>”, configuraremos parâmetros relacionados ao método de bootstrap para cálculo do suporte dos ramos, de forma similar ao que fizemos na <a href="https://gene7029.netlify.app/2022/praticas/aula_04/#análise-filogenética-de-máxima-verossimilhança-com-o-iq-tree-usando-o-plugin-do-phylosuite">Aula 04</a>:
 <br><br>
 <ul>
 <li><b>Bootstrap:</b> o IQ-TREE fornece uma “aproximação ultra-rápida de bootstrap” (<i>ultrafast bootstrap approximation, UFBoot</i>) para reduzir o tempo total de análise e as altas necessidades computacionais que existem no método tradicional de bootstrap não-paramétrico. É possível selecionar essa opção em “<i>Ultrafast</i>”. Caso deseje utilizar o bootstrap não-paramétrico, selecione “<i>Standard</i>”. Entretanto, optar por esta modalidade fará com que a análise seja extremamente mais demorada..</li>
@@ -158,7 +158,7 @@ Ao clicar nesta opção uma nova janela será aberta, apresentando um arquivo NE
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_10.png" alt="Opção Save to File na janela da opção Show MrBayes Data Block no PhyloSuite" align="center">
 </center>
 <br><br>
-Em seguida, acesse o CIPRES e faça o upload deste arquivo na opção “<i>Data</i>” dentro da pasta de interesse (caso tenha dúvidas sobre este processo, confira instruções mais detalhadas <a href="https://cursodefilogeniaufpr.netlify.app/turma_02/cadastros/cipres">aqui</a>). Neste tutorial usaremos o arquivo “<b>Aula_06_Arquivo_MrBayes_para_CIPRES</b>.nex”. Após realizar o upload do arquivo, crie uma nova tarefa em “<i>Create New Task</i>”. Atribua um nome para a análise no campo “<i>Description</i>” e clique em “<i>Select Input Data</i>" para selecionar o arquivo de entrada:
+Em seguida, acesse o CIPRES e faça o upload deste arquivo na opção “<i>Data</i>” dentro da pasta de interesse (caso tenha dúvidas sobre este processo, confira instruções mais detalhadas <a href="https://gene7029.netlify.app/2022/cadastros/cipres">aqui</a>). Neste tutorial usaremos o arquivo “<b>Aula_06_Arquivo_MrBayes_para_CIPRES</b>.nex”. Após realizar o upload do arquivo, crie uma nova tarefa em “<i>Create New Task</i>”. Atribua um nome para a análise no campo “<i>Description</i>” e clique em “<i>Select Input Data</i>" para selecionar o arquivo de entrada:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/praticas/img/aula_06/aula_06_11.png" alt="Página de configuração de nova tarefa no CIPRES" align="center">
