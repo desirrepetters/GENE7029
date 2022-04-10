@@ -1,9 +1,9 @@
 ---
-title: "Aula 09 - Construção e interpretação de árvores filogenéticas"
-linkTitle: "Aula 09 - Construção e interpretação de árvores filogenéticas"
+title: "Aula 09 - Métodos de reconstrução filogenética e modelos evolutivos"
+linkTitle: "Aula 09 - Métodos de reconstrução filogenética e modelos evolutivos"
 weight: 4
 description: >
-  Encontro do dia 14 de Junho sobre construção e interpretação de árvores filogenéticas. 
+  Encontro do dia 31 de Maio sobre métodos de reconstrução filogenética e modelos evolutivos. 
 ---
 
 <br>
