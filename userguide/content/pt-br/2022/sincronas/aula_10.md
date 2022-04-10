@@ -1,9 +1,9 @@
 ---
-title: "Aula 10 - Construção de árvores filogenéticas e uso de diferentes softwares"
-linkTitle: "Aula 10 - Construção de árvores filogenéticas e uso de diferentes softwares"
+title: "Aula 10 - Princípios para escolha de sequências para compor a árvore filogenética e como usar os bancos de dados"
+linkTitle: "Aula 10 - Princípios para escolha de sequências para compor a árvore filogenética e como usar os bancos de dados"
 weight: 4
 description: >
-  Encontro do dia 21 de Junho sobre construção de árvores filogenéticas e uso de diferentes softwares.
+  Encontro do dia 07 de Junho sobre princípios para escolha de sequências para compor a árvore filogenética e como usar os bancos de dados.
 ---
 
 <br>
