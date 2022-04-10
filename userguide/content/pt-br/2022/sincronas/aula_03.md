@@ -1,6 +1,6 @@
 ---
 title: "Aula 03 - Identificação de espécies em microrganismos – problemas e soluções"
-linkTitle: "Aula 03 - Identificação de espécies em microrganismos – problemas e soluções."
+linkTitle: "Aula 03 - Identificação de espécies em microrganismos – problemas e soluções"
 weight: 4
 description: >
   Encontro do dia 19 de Abril sobre identificação de espécies em microrganismos – problemas e soluções.
