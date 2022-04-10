@@ -19,9 +19,9 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 01</td>
   <td style="vertical-align:middle;">05/04/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">---
+  <td style="vertical-align:middle;"><br><br>- - -
 <br><br></td>
-  <td style="vertical-align:middle;">--- <br><br></td>
+  <td style="vertical-align:middle;"><br><br>- - - <br><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 02</td>
   <td style="vertical-align:middle;">12/04/2022 <br>(09:00 -12:00)</td>
@@ -31,79 +31,79 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 03</td>
   <td style="vertical-align:middle;">19/04/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 04</td>
   <td style="vertical-align:middle;">26/04/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 05</td>
   <td style="vertical-align:middle;">03/05/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 06</td>
   <td style="vertical-align:middle;">10/05/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 07</td>
   <td style="vertical-align:middle;">17/05/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 08</td>
   <td style="vertical-align:middle;">24/05/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 09</td>
   <td style="vertical-align:middle;">31/05/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 10</td>
   <td style="vertical-align:middle;">07/06/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 11</td>
   <td style="vertical-align:middle;">14/06/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 12</td>
   <td style="vertical-align:middle;">21/06/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 13</td>
   <td style="vertical-align:middle;">28/06/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 14</td>
   <td style="vertical-align:middle;">05/07/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 15</td>
   <td style="vertical-align:middle;">12/07/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Em breve. DOI: <a href="https://doi.org/">Em breve</a>.</td>
+  <td style="vertical-align:middle;"><br>Em breve. DOI: <a href="https://doi.org/">Em breve</a>.<br></td>
   <td style="vertical-align:middle;"><a href=""><br>[PDF em breve]
 <br></a></td>
   </table>
