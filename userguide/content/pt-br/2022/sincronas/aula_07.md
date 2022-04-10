@@ -1,9 +1,9 @@
 ---
-title: "Aula 07 - Métodos de reconstrução filogenética e modelos evolutivos"
-linkTitle: "Aula 07 - Métodos de reconstrução filogenética e modelos evolutivos"
+title: "Aula 07 - Trabalho com o próprio material (aula assíncrona)"
+linkTitle: "Aula 07 - Trabalho com o próprio material (aula assíncrona)"
 weight: 4
 description: >
-  Encontro do dia 31 de Maio sobre métodos de reconstrução filogenética e modelos evolutivos. 
+  Encontro do dia 17 de Maio com trabalho com o próprio material (aula assíncrona) 
 ---
 
 <br>
