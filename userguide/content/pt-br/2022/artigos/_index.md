@@ -19,13 +19,13 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 01</td>
   <td style="vertical-align:middle;">05/04/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;"><br> ---
-<br></td>
-  <td style="vertical-align:middle;"><br> --- <br></td>
+  <td style="vertical-align:middle;">---
+<br><br></td>
+  <td style="vertical-align:middle;">--- <br><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 02</td>
   <td style="vertical-align:middle;">12/04/2022 <br>(09:00 -12:00)</td>
-  <td style="vertical-align:middle;">Gostel & Kress. The Expanding Role of DNA Barcodes: Indispensable Tools for Ecology, Evolution, and Conservation. <b>Diversity</b> 14, 2022. DOI: <a href="https://doi.org/10.3390/d14030213">10.3390/d14030213</a>.</td>
+  <td style="vertical-align:middle;"><br>Gostel & Kress. The Expanding Role of DNA Barcodes: Indispensable Tools for Ecology, Evolution, and Conservation. <b>Diversity</b> 14, 2022. DOI: <a href="https://doi.org/10.3390/d14030213">10.3390/d14030213</a>.<br></td>
   <td style="vertical-align:middle;"><a href="https://www.mdpi.com/1424-2818/14/3/213/pdf"><br>[PDF]
 <br></a></td>
   <tr>
