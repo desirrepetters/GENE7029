@@ -1,9 +1,9 @@
 ---
-title: "Aula 08 - Princípios para escolha de sequências para compor a árvore filogenética e como usar os bancos de dados"
-linkTitle: "Aula 08 - Princípios para escolha de sequências para compor a árvore filogenética e como usar os bancos de dados"
+title: "Aula 08 - Trabalho com o próprio material (aula assíncrona)"
+linkTitle: "Aula 08 - Trabalho com o próprio material (aula assíncrona)"
 weight: 4
 description: >
-  Encontro do dia 07 de Junho sobre princípios para escolha de sequências para compor a árvore filogenética e como usar os bancos de dados.
+  Encontro do dia 24 de Maio com trabalho com o próprio material (aula assíncrona).
 ---
 
 <br>
