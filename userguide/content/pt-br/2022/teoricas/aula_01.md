@@ -3,7 +3,7 @@ title: "Aula 01 - Introdução ao Curso"
 linkTitle: "Aula 01 - Introdução ao Curso"
 weight: 4
 description: >
-  Encontro do dia 30 de Novembro com apresentação dos alunos, discussão sobre andamento do curso e conceitos introdutórios em filogenia e identificação de espécies
+  Encontro do dia 05 de Abril com apresentação dos alunos, discussão sobre andamento do curso e conceitos introdutórios em filogenia e identificação de espécies
 ---
 
 <br>
@@ -12,18 +12,18 @@ description: >
 <br>
 <i>Apresentação dos alunos e informações gerais sobre o curso</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/24Y23EtDX5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdrwaN3Rw2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-Clique <a href="https://photos.app.goo.gl/eCgxWppoKiZ3Nrpd8">aqui</a> para fazer o download do vídeo.
+Clique <a href="https://photos.app.goo.gl/fA87ii5mjytrVVTk9">aqui</a> para fazer o download do vídeo.
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
 <i>Conceitos introdutórios em filogenia e identificação de espécies</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LwwhTmjzfOM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yhaob2WgIGs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-Clique <a href="https://photos.app.goo.gl/M7UUrptkpC8UmF9V8">aqui</a> para fazer o download do vídeo.
+Clique <a href="https://photos.app.goo.gl/nkLLuNPHtWpTHFcU9">aqui</a> para fazer o download do vídeo.
 <br><br>
 
 <h2>Slides</h2>
