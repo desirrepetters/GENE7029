@@ -10,7 +10,7 @@ description: >
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>BLAST e busca de sequências em bancos de dados,</i>
+<i>BLAST e busca de sequências em bancos de dados</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FVNvFjfjTrk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
