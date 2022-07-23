@@ -1,6 +1,6 @@
 ---
-title: "Aula 08 - Trabalho com o próprio material (aula assíncrona)"
-linkTitle: "Aula 08 - Trabalho com o próprio material (aula assíncrona)"
+title: "Aula 08 - Sessão de tira-dúvidas sobre trabalhos dos alunos"
+linkTitle: "Aula 08 - Sessão de tira-dúvidas sobre trabalhos dos alunos"
 weight: 4
 description: >
   Encontro do dia 24 de Maio com sessão de tira-dúvidas sobre trabalhos dos alunos.
