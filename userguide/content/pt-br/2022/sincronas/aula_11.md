@@ -1,5 +1,5 @@
 ---
-title: "Aula 11 - Métodos e construção de árvores filogenéticas"
+title: "Aula 11 - Métodos de construção de árvores filogenéticas"
 linkTitle: "Aula 11 - Métodos de construção de árvores filogenéticas"
 weight: 4
 description: >
