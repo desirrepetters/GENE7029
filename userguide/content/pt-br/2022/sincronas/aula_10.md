@@ -1,6 +1,6 @@
 ---
 title: "Aula 10 - Modelos evolutivos"
-linkTitle: "Aula 10 - Princípios para escolha de sequências para compor a árvore filogenética e como usar os bancos de dados"
+linkTitle: "Aula 10 - Modelos evolutivos"
 weight: 4
 description: >
   Encontro do dia 07 de Junho com aula teórica e prática sobre modelos evolutivos. 
