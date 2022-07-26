@@ -1,6 +1,6 @@
 ---
-title: "Aula 09 - Modelos evolutivos"
-linkTitle: "Aula 09 - Modelos evolutivos"
+title: "Aula 09 - Discussão sobre materiais e trabalhos dos alunos"
+linkTitle: "Aula 09 - Discussão sobre materiais e trabalhos dos alunos"
 weight: 4
 description: >
   Encontro do dia 31 de Maio com discussão sobre materiais e trabalhos dos alunos.
